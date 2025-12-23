@@ -39,4 +39,4 @@ A machine learning project to predict prices of used devices.
 ### 📫 Let’s Connect
 🌐 Portfolio: https://www.chaliserajesh.com.np  
 💼 LinkedIn: https://www.linkedin.com/in/chaliserajes19  
-🐦 X / Twitter: @IAmChalise
+
