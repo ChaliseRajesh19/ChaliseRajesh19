@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I’m Rajesh Chalise
 
-<!--
-**ChaliseRajesh19/ChaliseRajesh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | AI/ML Enthusiast  
+💻 Learning Machine Learning and Full Stack Development  
+🚀 Building projects to gain practical knowledge and solve real-world problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Basics of Machine Learning
+- Deployment: Render, Streamlit, Netlify
+
+---
+
+### 🚀 Highlight Projects
+⭐ **Weather App**  
+A JavaScript application that fetches and displays live weather data using an API.
+
+🎬 **Movie Recommendation System**  
+A basic machine learning project that recommends movies based on user preferences.
+
+📊 **NPL Dashboard**  
+A data analysis dashboard built using Jupyter Notebook.
+
+📱 **Second-Hand Device Price Prediction**  
+A machine learning project to predict prices of used devices.
+
+---
+
+### 🌱 Currently Learning
+- React.js  
+- Python  
+- Machine Learning  
+
+---
+
+### 📫 Let’s Connect
+🌐 Portfolio: https://www.chaliserajesh.com.np  
+💼 LinkedIn: https://www.linkedin.com/in/chaliserajes19  
+🐦 X / Twitter: @IAmChalise
