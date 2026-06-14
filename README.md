@@ -77,21 +77,6 @@ The future belongs to those who build it. **I'm here to build.** 🤖
 
 ---
 
-## 🗺️ My AI Engineering Roadmap
-
-```
-✅ Python Fundamentals
-✅ HTML / CSS / JavaScript
-✅ Git & GitHub       
-🔄 Building AI Agents (Learning)  
-🔄 RAG Systems (Learning)
-🔜 Agentic AI
-🔜 Fine-tuning LLMs
-🔜 FastAPI + Deployment
-🔜 MLOps & CI/CD
-```
-
----
 
 ## 📊 GitHub Stats
 
