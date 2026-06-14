@@ -69,11 +69,11 @@ The future belongs to those who build it. **I'm here to build.** 🤖
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🤖 **[Project 1 Name](https://github.com/ChaliseRajesh19/repo-name)** | Brief description of what it does | `Python` `HTML` `JS` |
-| 🌐 **[Project 2 Name](https://github.com/ChaliseRajesh19/repo-name)** | Brief description of what it does | `Python` `CSS` |
-| 💡 **[Project 3 Name](https://github.com/ChaliseRajesh19/repo-name)** | Brief description of what it does | `JavaScript` `HTML` |
+| 🤖 **[Study Buddy](https://github.com/ChaliseRajesh19/repo-name)** | An PDF RAG System| `Prompt Engineering` `RAG PIPELINE` `VECTOR DATABASES` `LLM API ` |
+| 🌐 **[Exam_Buddy](https://github.com/ChaliseRajesh19/repo-name)** | An RAG + Agent System | `LLM API` `Tool Calling` ` RAG `  |
+| 💡 **[Comming Soon](https://github.com/ChaliseRajesh19/repo-name)** | Brief description of what it does | `JavaScript` `HTML` |
 
-> 📌 *Replace above with your actual repo names — just update the links and descriptions!*
+
 
 ---
 
@@ -82,10 +82,10 @@ The future belongs to those who build it. **I'm here to build.** 🤖
 ```
 ✅ Python Fundamentals
 ✅ HTML / CSS / JavaScript
-✅ Git & GitHub
-🔄 LLM Engineering          ← Currently Here
-🔄 Building AI Agents       ← Currently Here
-🔜 RAG Systems (Next)
+✅ Git & GitHub       
+🔄 Building AI Agents (Learning)  
+🔄 RAG Systems (Learning)
+🔜 Agentic AI
 🔜 Fine-tuning LLMs
 🔜 FastAPI + Deployment
 🔜 MLOps & CI/CD
@@ -114,10 +114,10 @@ The future belongs to those who build it. **I'm here to build.** 🤖
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaliserajesh19/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.chaliserajesh.com.np)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChaliseRajesh19)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaliseinai@gmail.com)
 
 </div>
 
