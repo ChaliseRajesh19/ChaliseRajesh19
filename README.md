@@ -1,117 +1,234 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Rajesh+Chalise+%F0%9F%91%8B;Aspiring+AI+Engineer+%F0%9F%A4%96;Building+with+LLMs+%26+GenAI+%F0%9F%A7%A0;Agentic+AI+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+# Hi, I'm Rajesh Chalise 👋
 
-<br/>
+### AI Engineer | Building Production-Ready LLM & Agentic AI Applications
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ChaliseRajesh19&color=6E40C9&style=flat-square&label=Profile+Views)](https://github.com/ChaliseRajesh19)
+<p>
+Computer Engineering Student passionate about designing intelligent AI systems using
+<b>LLMs</b>, <b>RAG</b>, <b>Agentic AI</b>, and <b>FastAPI</b>.
+</p>
 
-</div>
+<p>
+<a href="https://github.com/ChaliseRajesh19"><img src="https://komarev.com/ghpvc/?username=ChaliseRajesh19&style=flat-square&color=blue" /></a>
+<a href="https://linkedin.com/in/chaliserajesh19"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.chaliserajesh.com.np"><img src="https://img.shields.io/badge/Portfolio-Visit-6E40C9?style=flat-square"/></a>
+<a href="mailto:chaliseinai@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square"/></a>
 
----
-
-## 👋 About Me
-
-> *"Hey! I'm a CS student who fell in love with AI — not just using it, but building it."*
-
-I'm on an exciting journey into **LLMs**, **GenAI**, and **Agentic AI**, learning how to create intelligent systems that can reason, plan, and act autonomously.
-
-The future belongs to those who build it. **I'm here to build.** 🤖
-
-- 🎓 **CS Student** from Nepal 🇳🇵
-- 🔭 Currently building: **AI Agent projects using LangChain & LLMs**
-- 🌱 Currently learning: **LLMs · GenAI · Agentic AI · LangChain · Prompt Engineering**
-- 💬 Ask me about: **GenAI · AI Agents · LLMs · Python**
-- 🤝 Open to: **AI/ML internships and collaborations**
-- ⚡ Fun fact: *I think AI Agents will change the world more than the internet did*
-
----
-
-## 🧠 AI / ML Skills
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-
-</div>
-
-**Core AI Focus:**
-- 🤖 Large Language Models (LLMs)
-- 💬 Prompt Engineering
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🕸️ AI Agents & Agentic Workflows
-- 🧩 Multi-Agent Systems (AutoGen / CrewAI)
-
----
-
-## 💻 Web & General Skills
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+</p>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 👨‍💻 About Me
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **[Study Buddy](https://github.com/ChaliseRajesh19/repo-name)** | An PDF RAG System| `Prompt Engineering` `RAG PIPELINE` `VECTOR DATABASES` `LLM API ` |
-| 🌐 **[Exam_Buddy](https://github.com/ChaliseRajesh19/repo-name)** | An RAG + Agent System | `LLM API` `Tool Calling` ` RAG `  |
-| 💡 **[Comming Soon](https://github.com/ChaliseRajesh19/repo-name)** | Brief description of what it does | `JavaScript` `HTML` |
+I'm a **Computer Engineering student** from Nepal focused on becoming a **Modern AI Engineer**.
 
+I enjoy building AI applications that combine **Large Language Models**, **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, and modern backend technologies to solve real-world problems.
 
+My goal is not just to use AI models, but to design **production-ready AI systems** that are scalable, reliable, and useful.
 
 ---
 
+# 🚀 Highlights
 
-## 📊 GitHub Stats
+- 🤖 Built **6+ AI & Machine Learning projects**
+- 🧠 Specialized in **LLMs, RAG & Agentic AI**
+- ⚡ Developing production-ready AI APIs using **FastAPI**
+- 🐳 Containerizing applications with **Docker**
+- 🗄️ Experience with **PostgreSQL** and **Vector Databases**
+- 📚 Currently learning **AWS**, **LLMOps**, and **AI System Design**
+- 🤝 Open to **AI Engineer Internships** and **GenAI opportunities**
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
+
+</p>
+
+---
+
+## AI & GenAI
+
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Multi-Agent Systems
+- LangChain
+- LangGraph
+- OpenAI API
+- Gemini API
+- Hugging Face
+- FAISS
+- ChromaDB
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb"/>
+
+</p>
+
+- REST APIs
+- Pydantic
+- Async Python
+
+---
+
+## DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🤖 Study Buddy
+
+> AI-powered PDF Question Answering System
+
+### Features
+
+- RAG Pipeline
+- Semantic Search
+- Document Chunking
+- Vector Embeddings
+- LLM-powered Question Answering
+
+**Tech**
+
+`Python`
+`FastAPI`
+`FAISS`
+`Gemini`
+`LangChain`
+
+🔗 Repository: *(Add Link)*
+
+---
+
+## 🎓 Exam Buddy
+
+> Multi-Agent AI Assistant for students
+
+### Features
+
+- Multi-Agent Workflow
+- LangGraph Orchestration
+- RAG
+- Tool Calling
+- Persistent Memory
+
+**Tech**
+
+`LangGraph`
+`FastAPI`
+`PostgreSQL`
+`Docker`
+
+🔗 Repository: *(Add Link)*
+
+---
+
+## 💬 YouTube Comment Agent
+
+> AI Agent that automatically discovers YouTube comments, drafts responses using LLMs, and includes a human approval workflow before posting.
+
+### Features
+
+- Automatic Comment Discovery
+- AI Reply Generation
+- Human-in-the-loop Approval
+- Persistent Memory
+- FastAPI Backend
+- Streamlit Dashboard
+
+**Tech**
+
+`LangGraph`
+`FastAPI`
+`Docker`
+`PostgreSQL`
+
+🔗 Repository: *(Add Link)*
+
+---
+
+# 📈 Current Learning
+
+```text
+✅ Python
+✅ Machine Learning
+✅ LLM Fundamentals
+✅ Prompt Engineering
+✅ RAG
+✅ Agentic AI
+
+🔄 AWS
+🔄 LLMOps
+🔄 Production AI
+🔄 AI System Design
+```
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChaliseRajesh19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaliseRajesh19&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ChaliseRajesh19&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaliseRajesh19&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
+<br>
 
-<img src="https://streak-stats.demolab.com?user=ChaliseRajesh19&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ChaliseRajesh19&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 📫 Let's Connect
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaliserajesh19/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.chaliserajesh.com.np)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChaliseRajesh19)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaliseinai@gmail.com)
+<a href="https://linkedin.com/in/chaliserajesh19">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://www.chaliserajesh.com.np">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6E40C9?style=for-the-badge"/>
+</a>
+
+<a href="mailto:chaliseinai@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-*🚀 Currently building AI Agent projects | Open to AI Engineer internships & collaborations*
+## 💡 Philosophy
 
-**"The future belongs to those who build it."**
+> **Building intelligent AI systems that solve real-world problems through LLMs, Agentic AI, and modern software engineering.**
+
+⭐ If you like my work, feel free to explore my repositories and connect with me.
 
 </div>
