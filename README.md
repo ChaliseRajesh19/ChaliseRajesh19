@@ -225,10 +225,6 @@ My goal is not just to use AI models, but to design **production-ready AI system
 
 <div align="center">
 
-## 💡 Philosophy
-
-> **Building intelligent AI systems that solve real-world problems through LLMs, Agentic AI, and modern software engineering.**
-
 ⭐ If you like my work, feel free to explore my repositories and connect with me.
 
 </div>
